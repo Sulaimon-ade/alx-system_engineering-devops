@@ -1,2 +1,2 @@
 #!/bin/bash
-The readme for the alx-system directory
+My Repo Read me 
