@@ -1,2 +1,2 @@
 #!/bin/bash
-printf("Hellow, World\n");
+printf("Hellow, Worl");
