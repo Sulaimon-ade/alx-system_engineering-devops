@@ -1,2 +1,2 @@
 #!/bin/bash
-printf("Hellow, Worl");
+nano Hello,World.sh
